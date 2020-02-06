@@ -1,5 +1,5 @@
 milk
-eggs
 tea
 pastries
-ice cream
+bananas
+hot cocoa
